@@ -1,0 +1,30 @@
+{
+  "name": "Pans Oracle",
+  "short_name": "PansOracle",
+  "description": "The official Progressive Web App for Pans Oracle.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#212121",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "assets/icon/pansoracle192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icon/pansoracle.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icon/pansoracle72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "monochrome"
+    }
+  ]
+}
